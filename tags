@@ -12,7 +12,7 @@
 0	commands.json	/^    "clear A8",$/;"	s	array:commands
 1	commands.json	/^    "flag C3",$/;"	s	array:commands
 2	commands.json	/^    "flag D2",$/;"	s	array:commands
-3	commands.json	/^    "clear H9$/;"	s	array:commands
+3	commands.json	/^    "clear H9"$/;"	s	array:commands
 CLEAR	internal/validate-commands.js	/^  CLEAR: 'CLEAR', $/;"	p	class:VALID_COMMANDS
 END	internal/validate-commands.js	/^  END: 'END'$/;"	p	class:VALID_COMMANDS
 FLAG	internal/validate-commands.js	/^  FLAG: 'FLAG', $/;"	p	class:VALID_COMMANDS
