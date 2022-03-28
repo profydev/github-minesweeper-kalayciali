@@ -1,0 +1,29 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/srcfinder/github-minesweeper-kalayciali/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/1a7cdede/
+0	commands.json	/^    "clear A8"$/;"	s	array:commands
+CLEAR	internal/validate-commands.js	/^  CLEAR: 'CLEAR', $/;"	p	class:VALID_COMMANDS
+END	internal/validate-commands.js	/^  END: 'END'$/;"	p	class:VALID_COMMANDS
+FLAG	internal/validate-commands.js	/^  FLAG: 'FLAG', $/;"	p	class:VALID_COMMANDS
+GitHub Minesweeper	README.md	/^# GitHub Minesweeper$/;"	c
+NUM_COLS	internal/validate-commands.js	/^const NUM_COLS = 8;$/;"	C
+NUM_ROWS	internal/validate-commands.js	/^const NUM_ROWS = 8;$/;"	C
+UNFLAG	internal/validate-commands.js	/^  UNFLAG: 'UNFLAG', $/;"	p	class:VALID_COMMANDS
+VALID_COMMANDS	internal/validate-commands.js	/^const VALID_COMMANDS = {$/;"	c
+commands	commands.json	/^  "commands": [$/;"	a
+commandsFile	internal/validate-commands-json.js	/^const commandsFile = fs.readFileSync('.\/commands.json');$/;"	C
+commandsFile	internal/validate-commands.js	/^const commandsFile = fs.readFileSync('.\/commands.json');$/;"	C
+commandsJson	internal/validate-commands-json.js	/^let commandsJson;$/;"	v
+fs	internal/validate-commands-json.js	/^const fs = require('fs');$/;"	C
+fs	internal/validate-commands.js	/^const fs = require('fs');$/;"	C
+handleError	internal/handle-error.js	/^function handleError(message) {$/;"	f
+handleError	internal/validate-commands-json.js	/^const handleError = require('.\/handle-error');$/;"	C
+handleError	internal/validate-commands.js	/^const handleError = require('.\/handle-error');$/;"	C
