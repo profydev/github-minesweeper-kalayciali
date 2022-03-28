@@ -9,7 +9,9 @@
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	5.9.0	/1a7cdede/
-0	commands.json	/^    "clear A8"$/;"	s	array:commands
+0	commands.json	/^    "clear A8",$/;"	s	array:commands
+1	commands.json	/^    "flag C3",$/;"	s	array:commands
+2	commands.json	/^    "flag D2"$/;"	s	array:commands
 CLEAR	internal/validate-commands.js	/^  CLEAR: 'CLEAR', $/;"	p	class:VALID_COMMANDS
 END	internal/validate-commands.js	/^  END: 'END'$/;"	p	class:VALID_COMMANDS
 FLAG	internal/validate-commands.js	/^  FLAG: 'FLAG', $/;"	p	class:VALID_COMMANDS
